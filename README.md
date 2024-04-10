@@ -5,9 +5,17 @@
 
 ### Hallo zusammen! 👋
 
-Ich heiße nicht nur Andy, sondern euch auch Herzlich Wilkommen. Ich hoffe, dass du Interesse an meinen Projekten findest. Es werden immer wieder neue Projekte hinzukommen.
+Ich heiße Andy und bin QuereinsteigerIT. Ich möchte Dir dabei helfen in die IT einzusteigen und das so einfach es geht. Dazu gebe ich euch Tipps und zeige Dir anhand von mit selbst, dass ein Quereinstieg eine sehr gute Option ist.
 </br>
 
+
+---
+ ### Wo ich zufinden bin!
+ - [Twitch](https://www.twitch.tv/quereinsteigerit)
+ - [Discord](https://discord.gg/83YqJNBrVR)
+ - [Instagramm](https://www.instagram.com/quereinsteigerit_original?igsh=MTZ1OWN5MWVrbHlveg%3D%3D&utm_source=qr)
+ - [YouTube](https://www.youtube.com/@QuereinsteigerIT)
+ - [TikTok](https://www.tiktok.com/@quereinsteigerit?_t=8knGeHSQLrc&_r=1)
 
 ---
 #### Programmiersprachen:
@@ -69,10 +77,7 @@ Ich heiße nicht nur Andy, sondern euch auch Herzlich Wilkommen. Ich hoffe, dass
 
 ---
 ### Ein paar Projekte
-- ["DHL" Serverless EDA Paketversand](https://github.com/AndySchw/DHL-Projekt)
-- [Fullstack Docker Anwendung](https://github.com/AndySchw/FullStackDocker)
-- [Fullstack Docker PokeDex (HTML5,CSS3,Pug,Express, JavaScript)](https://github.com/AndySchw/PokeDexNEU)
-- [BackJack Spiel mit JavaScript](https://github.com/AndySchw/BlackJack)
+- Hier werden Projekte Entstehen die ich im LiveStream auf Twitch erstellen werden.
 
 ---
 
@@ -80,14 +85,13 @@ Ich heiße nicht nur Andy, sondern euch auch Herzlich Wilkommen. Ich hoffe, dass
 
 **Interessen:**
 
-Ich bin leidenschaftlich daran interessiert, kontinuierlich zu lernen und neue Herausforderungen anzunehmen. Meine Neugier und Wissbegierde treiben mich dazu an, mich ständig in neue Technologien und Wissensgebiete zu vertiefen. Ich schätze die Vielfalt der IT-Welt und bin immer auf der Suche nach neuen Projekten, die meinen Horizont erweitern.
+Ich bin leidenschaftlich daran interessiert, kontinuierlich zu lernen und neue Herausforderungen anzunehmen. Meine Neugier und Wissbegierde treiben mich dazu an, mich ständig in neue Technologien und Wissensgebiete zu vertiefen. Ich schätze die Vielfalt der IT-Welt und bin immer auf der Suche nach neuen Projekten, die meinen Horizont erweitern. Ich helfe auch gerne Euche Eure Motivation zu fassen und durchzustarten.
 
 **Ziele:**
 
-Zu meinen Zielen gehört es, meine Fähigkeiten in verschiedenen Programmiersprachen auszubauen. Aktuell faszinieren mich Swift und Rust, und ich plane, meine Expertise in diesen Sprachen zu vertiefen. Auch die Anwendung von React Native zur App-Entwicklung steht auf meiner Agenda. Dabei lege ich großen Wert auf Präzision und Ordnung, um qualitativ hochwertige Ergebnisse zu erzielen.
+Ich möchte Dir helfen den Schritt zu wagen eine Weiterbildung zu starten und dein Leben Maximal zu verbessern wenn du Bock auf IT hast.
 
 Effizienz ist für mich ein wichtiger Grundsatz. Ich suche stets nach Möglichkeiten, meine Arbeitsweise zu optimieren, um Zeit effektiver zu nutzen und unnötige Verzögerungen zu vermeiden.
 
-Ein langfristiges Ziel von mir ist es, einen Doktortitel in der IT zu erlangen. Dieser würde nicht nur meine Leidenschaft für die IT-Forschung und -Entwicklung widerspiegeln, sondern mir auch die Möglichkeit bieten, einen bedeutenden Beitrag zur Branche zu leisten.
 
 Insgesamt zeichne ich mich durch meine akribische Arbeitsweise aus und bin stets auf der Suche nach neuen Herausforderungen und Projekten, die meine Neugier befriedigen und meine Fähigkeiten erweitern.
